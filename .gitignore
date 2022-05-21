@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+
+/input_pdf
+
+/plays_tei_raw/*
+!/plays_tei_raw/.keep
